@@ -1,0 +1,3 @@
+C:/Users/maho/Desktop/KODLAR/Kelime_Oyunu/cmake-build-debug/CMakeFiles/Kelime_Oyunu.dir
+C:/Users/maho/Desktop/KODLAR/Kelime_Oyunu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maho/Desktop/KODLAR/Kelime_Oyunu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
